@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/bot-flow-icon.png" alt="Bot Flow icon" width="180" />
+  <img src="https://github.com/organizations/bot-flow/settings/profile" alt="Bot Flow icon" width="180" />
 </p>
 
 <h1 align="center">Bot Flow</h1>
